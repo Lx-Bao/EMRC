@@ -15,6 +15,13 @@ This paper introduces the Expertise-aware Multi-LLM Recruitment and Collaboratio
 ![LD](Fig/Fig_case3_01.png)
 
 ## Prerequisites
+Install [Camel](https://github.com/camel-ai/camel) and [Ollama](https://ollama.com/)
+```
+pip install camel-ai
+```
+```
+curl -fsSL https://ollama.com/install.sh | sh
+```
 
 ## Usage
 ### 1. Clone the repository
