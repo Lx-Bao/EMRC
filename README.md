@@ -1,7 +1,7 @@
 # EMRC
 
 This repo is an official implementation of the *EMRC*.
-**The code will be released after the acceptance of the paper.**
+**The complete code will be released upon the acceptance of the paper.**
 
 
 ## Prerequisites
