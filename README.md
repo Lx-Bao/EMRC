@@ -30,8 +30,19 @@ curl -fsSL https://ollama.com/install.sh | sh
 https://github.com/Lx-Bao/EMRC.git
 ```
 ### 2. Pre-Processing
+```
+python Pre_Processing/Expertise_Evaluation.py
+```
+### 3. Inference
+First, classify the medical questions:
+```
+python Inference/Query_Classfication.py
+```
+Next, based on the classification results, employ agents and collaborate to obtain the final answer.
+```
+python Inference/evaluate_WorkFlow_nej.py
+```
 
-### 3. Interface
 ### 4. Evaluation
 
 ## Citation
