@@ -31,9 +31,18 @@ curl -fsSL https://ollama.com/install.sh | sh
 https://github.com/Lx-Bao/EMRC.git
 ```
 ### 2. Pre-Processing
+Evaluate the expertise of each LLM on the validation set:
 ```
 python Pre_Processing/Expertise_Evaluation.py
 ```
+Construct the LLM Expertise Table:
+```
+python Data_process/every_com_acc.py
+```
+```
+python Data_process/every_dept_acc.py
+```
+
 ### 3. Inference
 First, classify the medical questions:
 ```
