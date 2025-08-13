@@ -14,7 +14,7 @@ This repo is an official implementation of the *EMRC*.
 ## Usage
 ### 1. Clone the repository
 
-### 2. Training
+### 2. Pre-Processing
 
 ### 3. Testing
 ### 4. Evaluation
