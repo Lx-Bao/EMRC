@@ -230,9 +230,9 @@ The department needs to select from the following list:
 
 Prompt_diff = """
 Please indicate the difficulty/complexity of the medical query among below options:
-1) low: a PCP or general physician can answer this simple medical knowledge checking question without relying heavily on consulting other specialists.
-2) moderate: a PCP or general physician can answer this question in consultation with other specialist in a team.
-3) high: Team of multi-departmental specialists can answer to the question which requires specialists consulting to another department (requires a lot of team effort to treat the case).
+1) low: Involves fundamental medical facts or single-concept knowledge, requiring no specialized background for comprehension.
+2) moderate: Requires integration of multiple foundational concepts and a moderate level of clinical reasoning.
+3) high: Demands multi-step clinical reasoning or interdisciplinary knowledge integration, typically necessitating professional medical training.
 """
 
 Prompt_example = """
