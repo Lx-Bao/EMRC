@@ -16,7 +16,7 @@ This repo is an official implementation of the *EMRC*.
 
 ### 2. Pre-Processing
 
-### 3. Testing
+### 3. Interface
 ### 4. Evaluation
 
 ## Citation
