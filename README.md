@@ -1,7 +1,8 @@
 # EMRC
 
-This repo is an official implementation of the *EMRC*.
-**The complete code will be released upon the acceptance of the paper.**
+This repo is an official implementation of the **Expertise-aware Multi-LLM Recruitment and Collaboration for Medical Decision-Making**.
+
+*The complete code will be released upon the acceptance of the paper.*
 
 ## Framework Overview
 ![architecture](Fig/Fig_Method7_01.png)
