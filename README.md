@@ -11,6 +11,9 @@ This paper introduces the Expertise-aware Multi-LLM Recruitment and Collaboratio
 ![LD](Fig/NEJ_Med.png)
 ![LD](Fig/Fig_ld4_01.png)
 
+## Case Study
+![LD](Fig/Fig_case3_01.png)
+
 ## Prerequisites
 
 ## Usage
