@@ -23,9 +23,12 @@ pip install camel-ai
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
+
 ## Usage
 ### 1. Clone the repository
-
+```
+https://github.com/Lx-Bao/EMRC.git
+```
 ### 2. Pre-Processing
 
 ### 3. Interface
