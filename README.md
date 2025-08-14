@@ -48,7 +48,7 @@ First, classify the medical questions:
 ```
 python Inference/Query_Classfication.py
 ```
-Next, based on the classification results, employ agents and collaborate to obtain the final answer.
+Next, based on the classification results, recruit agents and collaborate to obtain the final answer.
 ```
 python Inference/evaluate_WorkFlow_nej.py
 ```
